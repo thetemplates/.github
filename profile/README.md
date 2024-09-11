@@ -12,7 +12,7 @@ Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintel
 
 #### Project Tasks Management Templates
 
-Additionally, this *GitHub Organization* hosts templates for tracking the tasks of a project.  Login to get a copy of
+Additionally, this *GitHub Organization* hosts templates for tracking the tasks of a project.  Login to access the [templates area](https://github.com/orgs/thetemplates/projects).
 
 * **Project Details Template**: For eliciting and recording the details of machine learning dependent project for scope determination, feasibility assessment, and economic viability purposes.
 * **Model Development & Deployment Template**: For outlining model development & deployment tasks.
